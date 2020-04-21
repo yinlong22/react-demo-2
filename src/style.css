@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: crimson;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.Son {
+  background: coral;
+  padding: 10px;
+}
+
+.Grandson {
+  background: chocolate;
+  padding: 10px;
+  color: white;
+}
